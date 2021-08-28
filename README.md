@@ -19,3 +19,8 @@ To execute the full suite of tests, from the root directory enter `npm run test`
 ## Demo
 
 The live version of this application can be found [here](https://kb-note-taker-app.herokuapp.com/).
+
+<img width="700" alt="home page" src="https://user-images.githubusercontent.com/80425583/131205431-cac3c2d9-951f-4f79-b1b0-2b3316bda470.png">
+
+<img width="700" alt="note taker" src="https://user-images.githubusercontent.com/80425583/131205442-7e7f4449-ee3a-45ef-8e95-f3f6eb350fb5.png">
+
