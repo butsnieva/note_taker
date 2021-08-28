@@ -1,7 +1,17 @@
 [
   {
-    "title": "another test",
-    "text": "text",
+    "title": "ToDo list",
+    "text": "Call mom\nAppt to doctor\nFinish Express.js assignment ",
     "id": 1
+  },
+  {
+    "title": "My goals",
+    "text": "Eat healthier\nGym twice/week\nBuy a new car",
+    "id": 2
+  },
+  {
+    "title": "What is Express.js?",
+    "text": "Express.js, or simply Express, is a back-end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js\n",
+    "id": 3
   }
 ]
